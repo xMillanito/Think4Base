@@ -1,3 +1,3 @@
 # Think4Base
 LFG !
-third day
+3rd day
