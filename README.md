@@ -3,4 +3,4 @@ LFG !
 3rd day
 4 commit training
 5 shir
-6ty 9ine
+6ty
