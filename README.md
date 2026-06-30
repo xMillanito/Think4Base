@@ -1,4 +1,4 @@
 # Thinking4base
 LFG !
 3rd day
-4 commit training
+4 commit
